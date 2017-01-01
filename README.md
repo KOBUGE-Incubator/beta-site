@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Who we are
 
-You can use the [editor on GitHub](https://github.com/KOBUGE-Incubator/beta-site/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+KOBUGE is short for "Kreative Organization of Buddies Using Godot Engine". We are a loose group of people, who make games with the Godot Engine. We love making games and we love open-source and libre software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our Projects
+In this section you can find a bunch of games that we are currently working on.
 
-### Markdown
+### Minilens
+[Minilens](http://kobuge-games.github.io/minilens/ ) is a puzzle platformer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thousand years after humans went extinct, aliens send a robot series called Minilens to earth to clean up and retrieve surviving flora. They forget that Earth has gravity though, so Minilens can't jump.
+![Screenshot for minilens](http://kobuge-games.github.io/minilens/images/screenshots/1.png)
 
-```markdown
-Syntax highlighted code block
+### Game 2
+Add some more interesting games. The minilens section can be used as an example for how this could look like.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KOBUGE-Incubator/beta-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other Games
+There are also some other, small projects.
+Big projects that are in development by a group of people from KOBUGE can be found at the [KOBUGE at github](https://github.com/kobuge-games).
+Small projects in early development can be found at the [KOBUGE-Incubator at github](https://github.com/KOBUGE-Incubator)
